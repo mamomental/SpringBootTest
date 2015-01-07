@@ -4,4 +4,7 @@
   <artifactId>springboot-maven-parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>springboot-maven-web</module>
+  </modules>
 </project>
